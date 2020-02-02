@@ -5,7 +5,8 @@
     "description": "Automatically opens the current reddit comments page on reddit-stream.com",
     "page_action": {
         "default_icon": {
-            "32": "images/favicon.png"
+            "32": "images/icon32.png",
+            "128": "images/icon128.png"
         },
         "default_title": "Reddit Stream"
     },
@@ -18,6 +19,7 @@
         "declarativeContent"
     ],
     "icons": {
-        "32": "images/favicon.png"
+        "32": "images/icon32.png",
+        "128": "images/icon128.png"
     }
 }
